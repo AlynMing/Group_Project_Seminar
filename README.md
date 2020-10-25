@@ -77,7 +77,7 @@ Optional:
 <img src="Weather.jpg" width=800><br>
 
 ### 4. Schema
-<img src="schema.jpg" width=800><br>
+<img src="schema.JPG" width=800><br>
 
 GET - Current Data
 https://rapidapi.com/community/api/open-weather-map/endpoints

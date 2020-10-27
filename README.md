@@ -1,4 +1,4 @@
-Unit 7: Group Milestone - README Example
+Unit 7: Group Milestone
 ===
 
 :::info

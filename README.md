@@ -98,4 +98,4 @@ Request request = new Request.Builder()
 Response response = client.newCall(request).execute();
 
 ### 5. Build
-
+<img src="Weather.gif" width=800 height=800><br>

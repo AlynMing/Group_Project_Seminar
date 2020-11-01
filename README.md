@@ -1,4 +1,4 @@
-Unit 9: Group Milestone - README
+Unit 10: Group Milestone - README
 ===
 
 
@@ -10,6 +10,7 @@ Unit 9: Group Milestone - README
 2. [Product Spec](#Product-Spec)
 3. [Wireframes](#Wireframes)
 4. [Schema](#Schema)
+5. [Build] (#Build)
 
 ## Overview
 ### Description

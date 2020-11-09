@@ -1,4 +1,4 @@
-Unit 10: Group Milestone - README
+Unit 11: Group Milestone - README
 ===
 
 
@@ -11,6 +11,7 @@ Unit 10: Group Milestone - README
 3. [Wireframes](#Wireframes)
 4. [Schema](#Schema)
 5. [Build](#Build)
+6. [Build 2](#Build2)
 
 ## Overview
 ### Description
@@ -99,3 +100,8 @@ Response response = client.newCall(request).execute();
 
 ### 5. Build
 <img src="Weather.gif" width=800 height=800><br>
+
+### 6. Build 2
+<img src="Weather Update.gif" width=800 height=800><br>
+
+

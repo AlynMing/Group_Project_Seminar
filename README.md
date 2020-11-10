@@ -1,16 +1,17 @@
-Unit 8: Group Milestone
-===
 
-:::info
-**Below is an example** of what your **Group Project README** should include and how it should be structured for the **Unit 7 Group Milestone Submission**.
-:::
+Unit 11: Group Milestone - README
+
+
 
 # TUNIN
 
 ## Table of Contents
 1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
+2. [Product Spec](#Product-Spec)
+3. [Wireframes](#Wireframes)
+4. [Schema](#Schema)
+5. [Build](#Build)
+6. [Build 2](#Build2)
 
 ## Overview
 ### Description
@@ -76,3 +77,31 @@ Optional:
 
 ## Wireframes
 <img src="Weather.jpg" width=800><br>
+
+### 4. Schema
+<img src="schemas.JPG" width=800 height=800><br>
+
+GET - Current Data
+https://rapidapi.com/community/api/open-weather-map/endpoints
+
+CODE SNIPPETS
+CURRENT WEATHER DATA 
+
+OkHttpClient client = new OkHttpClient();
+
+Request request = new Request.Builder()
+	.url("https://community-open-weather-map.p.rapidapi.com/weather?lat=0&lon=0&callback=test&id=2172797&lang=null&units=%2522metric%2522%20or%20%2522imperial%2522&mode=xml%252C%20html&q=London%252Cuk")
+	.get()
+	.addHeader("x-rapidapi-host", "community-open-weather-map.p.rapidapi.com")
+	.addHeader("x-rapidapi-key", "70f8dbd6c0msh7528b257dafdcefp149a83jsn596a362a211d")
+	.build();
+
+Response response = client.newCall(request).execute();
+
+### 5. Build
+<img src="Weather.gif" width=800 height=800><br>
+
+### 6. Build 2
+<img src="Weather Update.gif" width=800 height=800><br>
+
+

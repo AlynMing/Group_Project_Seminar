@@ -104,4 +104,9 @@ Response response = client.newCall(request).execute();
 ### 6. Build 2
 <img src="Weather Update.gif" width=800 height=800><br>
 
+[X] Week Screen UI Developed
+[X] Parser for JSON Forecast
+[X] Backend Code developed
+
+
 

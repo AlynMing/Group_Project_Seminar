@@ -3,7 +3,7 @@ Unit 11: Group Milestone - README
 
 
 
-# TUNIN
+# Group Project
 
 ## Table of Contents
 1. [Overview](#Overview)

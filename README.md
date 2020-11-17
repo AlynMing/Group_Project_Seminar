@@ -12,6 +12,7 @@ Unit 12: Group Milestone - README
 4. [Schema](#Schema)
 5. [Build](#Build)
 6. [Build 2](#Build2)
+7. [Build 3](#Build3)
 
 ## Overview
 ### Description
@@ -111,5 +112,8 @@ Completed Tasks
 [X] Backend Code developed
 [X] Clean Code for home screen
 
-
-
+### 7. Build 3
+<img src="Weather Update 3.gif" width=800 height=800><br>
+1. Search Screen Developed
+2. Updates to navigation bar completed
+3. Updates to backend code

@@ -121,3 +121,5 @@ Completed Tasks
 
 ### 8. Final Build
 <img src="Weather Final Build.gif" width=800 height=800><br>
+1. Updated and cleaner UI
+2. Code fixes to Daily and weekly forecast
